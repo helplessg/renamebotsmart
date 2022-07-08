@@ -4,13 +4,13 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     # Start Message
     START = """
-Hey {}
+🌹 **Hey** <b>{}</b>
 
-Welcome to {}
+**Welcome to** <b>{}</b>
 
-You can use me to rename documents and files with certain other features. Use `/help` to learn how !
+**ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ʀᴇɴᴀᴍᴇ ᴅᴏᴄᴜᴍᴇɴᴛs ᴀɴᴅ ꜰɪʟᴇs ᴡɪᴛʜ ᴄᴇʀᴛᴀɪɴ ᴏᴛʜᴇʀ ꜰᴇᴀᴛᴜʀᴇs ᴜsᴇ /help ᴛᴏ ʟᴇᴀʀɴ ʜᴏw!** 
 
-By @StarkBots
+**ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❗** **@robo_glitch**
     """
 
     # Home Button
