@@ -53,11 +53,11 @@ class Data:
 
 📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)** **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
 
-📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ❤ :
+📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/hddubhub4u)**
 
-📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : : [Pyrogram](docs.pyrogram.org)
+📮**Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 📮** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/hddubuhub4uhelp)**
 
-Language : [Python](www.python.org)
+🎥 **ᴍᴏᴠɪᴇ's ɢʀᴏᴜᴘ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/dubbedweb)**
 
-Developer : @StarkProgrammer
+😈 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : **@the_glitchs**
     """
