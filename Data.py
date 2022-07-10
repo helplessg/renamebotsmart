@@ -20,7 +20,7 @@ class Data:
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔮ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs🔮", url="https://t.me/futurebackups")],
+        [InlineKeyboardButton("🔮 ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs🔮", url="https://t.me/futurebackups")],
         [
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ❓", callback_data="help"),
             InlineKeyboardButton("😈 ᴀʙᴏᴜᴛ 😈", callback_data="about")
@@ -51,7 +51,7 @@ class Data:
 
 📍 📁 **ꜰɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ʙʏ** **@robo_glitch**
 
-📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)** **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
+📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)**〡**[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
 
 📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/hddubhub4u)**
 
