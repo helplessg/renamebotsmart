@@ -49,15 +49,15 @@ class Data:
     ABOUT = """
 **✧✧✧ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ✧✧✧**
 
-📍 📁 **ꜰɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ʙʏ** **@robo_glitch**
+➤📍📁 **ꜰɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ \nʙʏ** **@robo_glitch**
 
-📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)**〡**[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
+➤📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)**〡**[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
 
-📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/hddubhub4u)**
+➤📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/hddubhub4u)**
 
-📮**Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 📮** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/hddubuhub4uhelp)**
+➤📮**Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 📮** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/hddubhub4uhelp)**
 
-🎥 **ᴍᴏᴠɪᴇ's ɢʀᴏᴜᴘ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/dubbedweb)**
+➤🎥 **ᴍᴏᴠɪᴇ's ɢʀᴏᴜᴘ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/dubbedweb)**
 
-😈 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : **@the_glitchs**
+➤😈 **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : **@the_glitchs**
     """
