@@ -15,28 +15,28 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="🏠 ʀᴇᴛᴜʀɴ ᴛᴏ ʜᴏᴍᴇ 🏠", callback_data="home")],
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("🔮ʙᴏᴛ sᴛᴀᴛᴜs ᴀɴᴅ ᴍᴏʀᴇ ʙᴏᴛs🔮", url="https://t.me/futurebackups")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ❓", callback_data="help"),
+            InlineKeyboardButton("😈 ᴀʙᴏᴜᴛ 😈", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 💡", url="https://t.me/hddubhub4u")],
+        [InlineKeyboardButton("📮 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 📮", url="https://t.me/hddubhub4uhelp")],
     ]
 
     # Help Message
     HELP = """
-Just send a document / video to start renaming. Then when asked, give the new name for the file. The bot will download the file and upload with new name.
+**Just send a document / video to start renaming. Then when asked, give the new name for the file. The bot will download the file and upload with new name**
 
 1) To have a custom thumbnail on your file, add an 'jpg' image as thumbnail using /thumbnail command.
 2) By default, videos are uploaded as videos. To prompt the bot to upload video as document, use /settings to change settings.
 
-✨ **Available Commands** ✨
+🛠 **Available Commands** 🛠
 
 /thumbnail - Change thumbnail settings
 /settings - Change default settings
@@ -47,13 +47,15 @@ Just send a document / video to start renaming. Then when asked, give the new na
 
     # About Message
     ABOUT = """
-**About This Bot** 
+**✧✧✧ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ✧✧✧**
 
-A telegram rename bot by @StarkBots
+📍 📁 **ꜰɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ ʙʏ** **@robo_glitch**
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/RenameTelegramBot)
+📞 **ᴄᴏɴᴛᴀᴄᴛ** : **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](http://t.me/GlitchAssistantBot)** **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Chat_With_Mr_Devil_bot)**
 
-Framework : [Pyrogram](docs.pyrogram.org)
+📢 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ❤ :
+
+📢 **ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ** ❤ : : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
