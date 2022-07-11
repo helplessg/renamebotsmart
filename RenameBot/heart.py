@@ -23,6 +23,7 @@ async def _rename(bot: Client, msg: Message):
             "**What should be the new name ?**\n**[To cancel send `/cancel`]",
             filters=filters.user(msg.from_user.id) & filters.text,
         )
+        new_name = await bot.listen(msg.chat.id, timeout=300, filters=filters.user(msg.from_user.id) & filters.text)
         # Cancel 1
         cancelled = await is_cancel(new_name_message)
         if cancelled:
