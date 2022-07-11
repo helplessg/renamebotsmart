@@ -77,7 +77,7 @@ async def _rename(bot: Client, msg: Message):
         else:
             caption = msg.caption
         if q.video_to == "video":
-            await bot.send_video(chat_id=msg.chat.id, video=file_path, file_name=new_name, caption=caption,
+            await bot.send_video(chat_id=msg.chat.id, video=file_path, caption = f"**{new_filename}**,
                                  thumb=thumb, progress=progress, progress_args=(uploading, "Uploading..."))
         else:
             await bot.send_document(chat_id=msg.chat.id, document=file_path, file_name=new_name, caption=caption,
