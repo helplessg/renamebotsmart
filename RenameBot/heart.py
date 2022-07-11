@@ -20,7 +20,7 @@ async def _rename(bot: Client, msg: Message):
     try:
         new_name_message = await bot.ask(
             msg.chat.id,
-            "**What should be the new name ?** **[To cancel send** **`/cancel`]"**,
+            "**What should be the new name ?** **[To cancel send**`/cancel`]"**,
             filters=filters.user(msg.from_user.id) & filters.text,
         )
         # Cancel 1
@@ -40,7 +40,7 @@ async def _rename(bot: Client, msg: Message):
                 new_name = new_name + "." + extension
         surely_question = await bot.send_message(
             msg.chat.id,
-            f"📝'`{new_name}`'**What should be the new name ?** **If yes, reply with 'y' If no reply with 'n' \nNew name will be asked again To cancel send** **`/cancel`**"
+            f"📝'`{new_name}`'**What should be the new name ?** **If yes, reply with 'y' If no reply with 'n' \nNew name will be asked again To cancel send** `/cancel`**"
             f"\nTell Me Sir What to Do?"
         )
         surely = await bot.listen(msg.chat.id, timeout=300, filters=filters.user(msg.from_user.id) & filters.text)
