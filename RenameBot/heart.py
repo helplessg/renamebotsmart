@@ -40,7 +40,7 @@ async def _rename(bot: Client, msg: Message):
             if "." not in new_name:
                 new_name = new_name + "." + extension
         await new_name_message.delete()
-        await new_name.delete()
+        
 
 
 
