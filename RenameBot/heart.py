@@ -39,24 +39,12 @@ async def _rename(bot: Client, msg: Message):
             extension = old_name.rsplit(".", 1)[1]
             if "." not in new_name:
                 new_name = new_name + "." + extension
-        surely_question = await bot.send_message(
-            msg.chat.id,
-            f"📝'`**{new_name}**`'**should be the new name ?**\n**if no reply with 'n' New name will be asked again** "
-            f"\nTo cancel send `/cancel`"
-        )
-        surely = await bot.listen(msg.chat.id, timeout=300, filters=filters.user(msg.from_user.id) & filters.text)
-        # Cancel 2
-        cancelled = await is_cancel(surely)
-        if cancelled:
-            await new_name_message.reply("**Cancelled the Process !**", quote=True)
-            return
-            new_name = (await bot.ask(msg.chat.id, "\nWhat should be the new name ?\n")).text
-            if "." in old_name:
-                extension = old_name.rsplit(".", 1)[1]
-                if "." not in new_name:
-                    new_name = new_name + "." + extension
-        await surely_question.delete()
-        await surely.delete()
+        await new_name_message.delete()
+        await new_name.delete()
+
+
+
+
         # Thumbnail
         q = SESSION.query(Users).get(msg.from_user.id)
         if q.thumbnail_status and q.thumbnail:
